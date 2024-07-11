@@ -11,7 +11,6 @@
 import taipy as tp
 from taipy.gui import Gui
 
-from configuration import scenario_cfg
 from taipy import Core
 from pages import *
 
